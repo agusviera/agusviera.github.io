@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Agustín Viera # your name (or website title) here
+logo: "https://github.com/agusviera/agusviera.github.io/blob/master/images/CV1.jpg" # your photo (or logo) here, ver si solo arranca desde /images
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  En este Portafolio se presentan Proyectos con aplicaciones de aprendizajes de Data Analytics, Business Intelligence & Data Science. 
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/agustinviera/">Perfil de LinkedIn</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-KH2FYJB8JL # your Google Analytics tracking ID here
