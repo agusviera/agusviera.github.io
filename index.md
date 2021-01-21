@@ -1,8 +1,8 @@
-## Portafolio de Agustin Viera
+# PORTAFOLIO DE PROYECTOS
 
 ---
 
-### Categoria de aprendizaje supervisado
+## APRENDIZAJE SUPERVISADO
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Categoria de aprendizaje no supervisado
+## APRENDIZAJE NO SUPERVISADO
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
