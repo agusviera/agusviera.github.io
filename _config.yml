@@ -1,9 +1,12 @@
 title: Agustín Viera # your name (or website title) here
-logo: "https://github.com/agusviera/agusviera.github.io/blob/master/images/CV1.jpg" # your photo (or logo) here, ver si solo arranca desde /images
+logo: "/images/CV1.jpg" # your photo (or logo) here, ver si solo arranca desde /images
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  En este Portafolio se presentan Proyectos con aplicaciones de aprendizajes de Data Analytics, Business Intelligence & Data Science. 
   <br><br>
-  Second description 
+  Lic. en Administración de Empresas con perfil en Análisis de Datos & BI.
+  Dipl. en Business Intelligence & Data Science.
+  <br><br>
+  En este Portafolio se presentan Proyectos con aplicaciones prácticas de aprendizaje en 
+  Análisis & Visualización de Datos, Business Intelligence, Modelos de Machine Learning & Data Science.  
   <br><br>
   <a href="https://www.linkedin.com/in/agustinviera/">Perfil de LinkedIn</a> 
   
