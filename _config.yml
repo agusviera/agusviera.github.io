@@ -1,5 +1,5 @@
 title: AGUSTÍN VIERA # your name (or website title) here
-logo: "/images/circle.png" # your photo (or logo) here, ver si solo arranca desde /images
+logo: <img src="/images/circle.png" width="48"> # your photo (or logo) here, ver si solo arranca desde /images
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Lic. en Administración de Empresas con perfil en Análisis de Datos & BI / Dipl. en Business Intelligence & Data Science.
   <br><br>
